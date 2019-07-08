@@ -10,7 +10,7 @@ const Toolbar = () => {
 
     </div>
     <div className="center">
-      Title!!
+      Title 
     </div>
 
   </Toolbar> 
