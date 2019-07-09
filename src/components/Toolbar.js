@@ -3,19 +3,25 @@ import React from 'react';
 
 const Toolbar = () => {
   return (
-    <div>
+
+
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    
+     React Challenges
+  </div>
+</nav>
+
+    // <div>
+    //  <nav className = "navbar">
+
+
      
-  <Toolbar>
-    <div className="left">
-
-    </div>
-    <div className="center">
-      Title 
-    </div>
-
-  </Toolbar> 
-/>
-    </div>
+    //  <div class="navbar-brand">
+    // <a class="navbar-item" href="https://bulma.io"/>
+    //   <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28" />
+    //   </div>
+   
   )};
 
 
