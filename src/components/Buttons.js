@@ -3,11 +3,11 @@ import React from 'react';
 const Buttons = () => {
     return (
      <div>
-<a class="button is-white">White</a>
-<a class="button is-light">Light</a>
-<a class="button is-dark">Dark</a>
-<a class="button is-black">Black</a>
-<a class="button is-text">Text</a>
+<a className="button is-white">White</a>
+<a className="button is-light">Light</a>
+<a className="button is-dark">Dark</a>
+<a className="button is-black">Black</a>
+<a className="button is-text">Text</a>
 </div>
        
     );
