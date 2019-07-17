@@ -1,16 +1,13 @@
-import React from 'react';
+import React from "react";
 
 const Buttons = () => {
-    return (
-     <div>
-<a className="button is-white">White</a>
-<a className="button is-light">Light</a>
-<a className="button is-dark">Dark</a>
-<a className="button is-black">Black</a>
-<a className="button is-text">Text</a>
-</div>
-       
-    );
+  return (
+    <div>
+      <a href="./haha" className="waves-effect waves-light btn-large">
+        DO NOT PRESS(seriously)
+      </a>
+    </div>
+  );
 };
 
 export default Buttons;
