@@ -6,6 +6,7 @@ import Button from "./components/Buttons/Buttons";
 import Badge from "./components/Badges/Badges";
 import Checkbox from "./components/CheckBoxes/CheckBoxes";
 import Chipbox from "./components/Chipbox/Chipbox";
+import AlignItemsList from "./components/AlignItemsList/AlignItemsList";
 import Pagination from "./components/Pagination/Pagination";
 import Indeterminate from "./components/Indeterminate/Indeterminate";
 
@@ -17,6 +18,7 @@ function App() {
       <Badge />
       <Checkbox />
       <Chipbox />
+      <AlignItemsList />
       <Indeterminate />
       <Pagination />
     </div>
