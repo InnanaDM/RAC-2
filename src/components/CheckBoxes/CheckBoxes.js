@@ -6,7 +6,7 @@ const Checkboxes = () => {
       <p>
         <label>
           <input type="checkbox" />
-          <span>Click me!</span>
+          <span>Click me!!! Hello to donn let me see</span>
         </label>
       </p>
     </form>
