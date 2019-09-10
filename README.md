@@ -72,3 +72,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 Hi
 Okay. 9.8. Time to get back on it. 
+9.9 How long will it take me to replace my laptop? Not longer than a week if I’m on it. And I stay on it
