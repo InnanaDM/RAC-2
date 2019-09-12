@@ -74,3 +74,4 @@ Hi
 Okay. 9.8. Time to get back on it. 
 9.9 How long will it take me to replace my laptop? Not longer than a week if I’m on it. And I stay on it
 9.10 Day two
+9.11 Day three. Productful day. Getting into the groove. 
