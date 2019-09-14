@@ -76,3 +76,4 @@ Okay. 9.8. Time to get back on it.
 9.10 Day two
 9.11 Day three. Productful day. Getting into the groove. 
 9.12 Almost. 
+9.13 please storm. Lucid. Come on. Break through.
